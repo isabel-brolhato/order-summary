@@ -1,0 +1,24 @@
+body {
+background-image: url(./images/pattern-background-desktop.svg);
+border-style: dotted;
+}
+
+#container{
+    display: flex;
+    width: 450px;
+    height: 600px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+align-items: center;
+border-radius: 20px;
+border-color: grey;
+
+}
+
+#content{
+    background-color: white;
+}
+
+h1, p, img, button{
+border-style: dotted;
+}
