@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/isabel-brolhato/order-page/blob/master/order%20summary%20done.png)
 
 
 ## My process
